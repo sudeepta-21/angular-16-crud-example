@@ -1,4 +1,4 @@
-# Angular 16 example project: CRUD with Rest API
+# Angular 16 example project: CRUD with Rest API...
 
 Build an Angular 16 CRUD example App to consume Rest APIs, display, modify & search data.
 
